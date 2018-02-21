@@ -2,7 +2,7 @@
 This is a short script to download YouTube Playlist using youtube-dl Python script.
 
 # Blog Link
-
+https://medium.com/@subash.cse66/robust-way-to-download-youtube-playlist-10-mins-command-f91b1f3d8d62
 
 # youtube-dl Installation
 Please refer the [tutorial](https://github.com/rg3/youtube-dl/blob/master/README.md#installation) given by the developers.
