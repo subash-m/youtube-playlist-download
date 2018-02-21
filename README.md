@@ -25,5 +25,7 @@ List ID = PLSQl0a2vh4HBf66MNFFBW1f76gFXFpr_U
 
 ![List ID Sample Image](YouTube_List_Id.png "Sample image explaining List ID of YouTube Playlist")
 
+# Output
+
 ![Program Output](ProgramOutput.png "Execution output of the program")
 
